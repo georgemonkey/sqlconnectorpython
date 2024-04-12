@@ -1,3 +1,2 @@
-Just plug in your own values.
-
--Parth Amradkar
+plug in your own values 😄
+- parth a
